@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\qbuser\\source\\repos\\CICDConsoleApp\\CICDTest\\CICDTest.csproj",
+      "projectUniqueName": "C:\\Users\\qbuser\\source\\repos\\CICDConsoleApp\\CICDTest.csproj",
       "projectName": "CICDTest",
-      "projectPath": "C:\\Users\\qbuser\\source\\repos\\CICDConsoleApp\\CICDTest\\CICDTest.csproj",
+      "projectPath": "C:\\Users\\qbuser\\source\\repos\\CICDConsoleApp\\CICDTest.csproj",
       "packagesPath": "C:\\Users\\qbuser\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\qbuser\\source\\repos\\CICDConsoleApp\\CICDTest\\obj\\",
+      "outputPath": "C:\\Users\\qbuser\\source\\repos\\CICDConsoleApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\qbuser\\AppData\\Roaming\\NuGet\\NuGet.Config",
